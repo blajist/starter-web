@@ -1,7 +1,9 @@
-# Starter Web Repo
+# New Project
 
 This repository is for showing how Git and GitHub work
 
-## Purpose
+## Intro
 
-Sample website with plenty of files for demos
+Sample woebsite with plenty of files for demos
+
+## Prod
