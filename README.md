@@ -7,3 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample woebsite with plenty of files for demos
 
 ## Prod
+
+## Deploy
+
+Deploy section
