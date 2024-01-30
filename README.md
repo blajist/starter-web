@@ -4,6 +4,8 @@ PLEASE READ BELOW
 
 This repository is for showing how Git and GitHub work
 
+MNOGO VAJNO
+
 ## Intro
 
 Sample woebsite with plenty of files for demos
