@@ -1,5 +1,7 @@
 # New Project
 
+PLEASE READ BELOW
+
 This repository is for showing how Git and GitHub work
 
 ## Intro
