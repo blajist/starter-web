@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Onzi -- Peder -- @peder
 
 # THANKS
 
