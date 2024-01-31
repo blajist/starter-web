@@ -32,3 +32,5 @@ copyright notice
 Very important
 
 ## STASHing
+
+stash test
